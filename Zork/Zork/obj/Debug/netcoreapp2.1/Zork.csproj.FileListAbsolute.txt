@@ -1,0 +1,11 @@
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\bin\Debug\netcoreapp2.1\Zork.deps.json
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\bin\Debug\netcoreapp2.1\Zork.runtimeconfig.json
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\bin\Debug\netcoreapp2.1\Zork.runtimeconfig.dev.json
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\bin\Debug\netcoreapp2.1\Zork.dll
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\bin\Debug\netcoreapp2.1\Zork.pdb
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.csprojAssemblyReference.cache
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.csproj.CoreCompileInputs.cache
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.AssemblyInfoInputs.cache
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.AssemblyInfo.cs
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.dll
+C:\Users\dev10\Documents\GitHub\Zork\Zork\Zork\obj\Debug\netcoreapp2.1\Zork.pdb
