@@ -57,5 +57,12 @@ namespace Zork
         private static Commands ToCommand(string commandString) => Enum.TryParse<Commands>(commandString, true, out Commands result) ? result : Commands.UNKNOWN;
 
 
+        private static readonly string[,] Rooms =
+        {
+            { "Rocky Trail","South of House","Canyon View"},
+            {"Forest", "West of House", "Behind House" },
+            {"Dense Woods", "North of House", "Clearing" }
+        };
+
     }
 }
