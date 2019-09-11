@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev10\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj": {}
+    "C:\\Users\\de159825\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev10\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj": {
+    "C:\\Users\\de159825\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev10\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj",
+        "projectUniqueName": "C:\\Users\\de159825\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj",
         "projectName": "Zork",
-        "projectPath": "C:\\Users\\dev10\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj",
-        "packagesPath": "C:\\Users\\dev10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev10\\Documents\\GitHub\\Zork\\Zork\\Zork\\obj\\",
+        "projectPath": "C:\\Users\\de159825\\Documents\\GitHub\\Zork\\Zork\\Zork\\Zork.csproj",
+        "packagesPath": "C:\\Users\\de159825\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\de159825\\Documents\\GitHub\\Zork\\Zork\\Zork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dev10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\de159825\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
