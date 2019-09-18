@@ -16,5 +16,8 @@ namespace Zork
             Description = description;
         }
 
+        public override string ToString() => Name;
+     
+
     }
 }
