@@ -5,6 +5,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Microsoft.CodeAnalysis.CSharp.Scripting;
 using Microsoft.CodeAnalysis.Scripting;
+using System.Linq;
 
 namespace Zork
 {
@@ -15,7 +16,7 @@ namespace Zork
         public static Game Instance { get; private set; }
 
 
-        public World World { get; private set; }
+        public World World { get; set; }
 
         [JsonIgnore]
         public Player Player { get; private set; }
